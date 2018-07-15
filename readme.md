@@ -1,11 +1,9 @@
-# Spring Boot Data Rest
+# Spring Boot Jenkins Pipeline and Docker
 
-how to use it to build a simple REST API.
+how to build, push and run docker containers from jenkins pipelines
 
 ## Links
-1. [Learning Data Rest](http://www.baeldung.com/spring-data-rest-intro)
-2. [Spring Getting Started](https://spring.io/guides/gs/accessing-data-rest/)
-3. [The big Spring Tutorial](http://www.springboottutorial.com/introduction-to-spring-data-rest-using-spring-boot)
+1. [Jenkins Pipelines and Docker](https://jenkins.io/doc/book/pipeline/docker/)
 
 ## Running
 mvn spring-boot:run
